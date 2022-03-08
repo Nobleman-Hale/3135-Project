@@ -1,0 +1,27 @@
+html
+{
+	background-color:#F1A66A;
+}
+
+body
+{
+	font-family:cursive;
+	color:#582630;
+}
+
+nav
+{
+	background-color:#F7EE7F;
+	text-align:center;
+	border:3px solid #582630;
+}
+
+.images
+{
+	width:200px;
+	border:1px solid #582630;
+}
+
+.message{
+	padding:50px 75px;
+}
