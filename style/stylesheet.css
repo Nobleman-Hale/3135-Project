@@ -15,7 +15,17 @@ nav
 	text-align:center;
 	border:3px solid #582630;
 }
+p
+{
+	text-align:center;
+	word-wrap: break-word;
+}
 
+div
+{
+	background-color:#F7EE7F;
+	text-align:top;
+}
 .images
 {
 	width:200px;
